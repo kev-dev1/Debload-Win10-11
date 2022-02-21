@@ -4,44 +4,37 @@
  Он удаляет кучу всякой дряни и делает Windows 10/11 более полезной и дружественной к конфиденциальности, чего в Windows обычно не бывает.
  С помощью скрипта вы можете выбрать минимальную Windows без приложений или приватную Windows без отслеживания и телеметрии.
 
- Вы можете выбрать:
+ Вы можете выбрать использование или моя Рекомендация использовать оба варианта:
 
  Privacy_NoTelemetry.cmd
 
- > Отключить кучу телеметрии и настроить параметры конфиденциальности и безопасности Windows с помощью моего личного файла конфигурации O&OShutup10.
-
- Minimal_Privacy_win.cmd
-
- > Содержит оба сценария "Minimalistic_Win_with_Store" и "Privacy_NoTelemetry", но удаляет Microsoft Edge/Microsoft Store и устанавливает Winget и альтернативные программы, такие как:
- - Firefox
- - Mozilla Thunderbird
- - Libreoffice
- - Lector PDF
- - Microsoft Powertoys
+ > Отключение телеметрии и настройка параметров конфиденциальности и безопасности Windows.
 
  Minimalistic_Win.cmd
 
- > Удаление кучи приложений без:
+ > Удаляет ряд приложений без:
  - Microsoft Store
- - Groove-Music
- - Кино и ТВ
+ - Калькулятор
+ - Groove Music
+ - Кино и телевидение
  - Фотографии
- - Snipping Tool
+ - Инструмент для создания сниппетов
  - Microsoft Edge (на базе Chromium)
- и установите Winget.
 
- Minimalistic_Win_with_Store.cmd
+ > Вингет также установлен:
+ - Firefox
+ - Mozilla Thunderbird
+ - Libreoffice
+ - Lektor PDF
+ - Powertoys от Microsoft
 
- > Удалите кучу приложений с Microsoft Store, но без него:
- - Groove-Music
- - Кино и ТВ
- - Картинки
- - Snipping Tool
- - Microsoft Edge (на базе Chromium)
- и установите Winget.
 
 ***Примечание: Сделайте резервную копию данных и точку восстановления в Windows***.
 ***Я не несу никакой ответственности за повреждения или ошибки в системе***.
 ***Используйте на свой страх и риск***.
+
+## признание
+Спасибо:
+  <a href="https://privacy.sexy/" title="Website">Privacy.sexy</a> <a href="https://github.com/undergroundwires/privacy.sexy">Github</a> для предопределенного списка, который можно создать самостоятельно
 
 Оставайтесь здоровыми и счастливыми (лично) и с вашей новой минимальной и дружественной к конфиденциальности Windows!

@@ -4,46 +4,37 @@
  Dies entfernt einen Haufen Sh*t und macht Windows 10/11 nützlicher und datenschutzfreundlicher, was bei Windows nicht üblich ist.
  Mit dem Script können Sie ein minimales Windows ohne Apps oder ein Datenschutz-Windows ohne Tracking oder Telemetrie wählen.
 
- Sie können wählen:
+ Sie können wählen, oder meine Empfehlung nutzen sie beide:
 
  Datenschutz_NoTelemetrie.cmd
 
- > Schalten Sie die Telemetrie aus und konfigurieren Sie die Windows Datenschutz- und Sicherheitseinstellungen mit meiner persönlichen O&OShutup10 Konfigurationsdatei.
-
- Minimal_Privacy_win.cmd
-
- > Enthält beide Skripte "Minimalistic_Win_with_Store" und "Privacy_NoTelemetry", entfernt aber Microsoft Edge/Microsoft Store und installiert Winget und alternative Programme wie:
- - Firefox
- - Mozilla Thunderbird
- - Libreoffice
- - Lektor PDF
- - Microsoft Powertoys
+ > Schaltet die Telemetrie aus und konfiguriert die Windows Datenschutz- und Sicherheitseinstellungen.
 
  Minimalistic_Win.cmd
 
- > Entfernen Sie eine Reihe von Apps ohne:
+ > Entfernet eine Reihe von Apps ohne:
  - Microsoft Store
- - Calculator
+ - Taschenrechner
  - Groove-Musik
- - Film&TV
+ - Film&Tv
  - Bilder
- - Snipping-Tool
+ - Schnipsel-Tool
  - Microsoft Edge (Chromium-basiert)
- und installiert Winget.
 
- Minimalistic_Win_with_Store.cmd
+ > Winget installiert ebenfalls:
+ - Firefox
+ - Mozilla Donnervogel
+ - Libreoffice
+ - Lektor PDF
+ - Microsofts Powertoys
 
- > Entferne auch eine Reihe von Apps mit Microsoft Store, aber ohne:
- - Calculator
- - Groove-Music
- - Film&TV
- - Bilder
- - Snipping-Tool
- - Microsoft Edge (Chromium-basiert)
- und installiert Winget.
 
 ***Hinweis: Machen Sie ein Backup Ihrer Daten und einen Wiederherstellungspunkt unter Windows***
 ***Ich übernehme keine Verantwortung für Schäden oder Fehler auf dem System***
 ***Benutzung auf eigene Gefahr***
+
+## Credits
+Danke an:
+  <a href="https://privacy.sexy/" title="Website">Privacy.sexy</a> <a href="https://github.com/undergroundwires/privacy.sexy">Github</a> für die vordefinierte Liste, zum selber erstellen.
 
 Bleiben Sie gesund und glücklich (persönlich) und mit Ihrem neuen minimalen und datenschutzfreundlichen Windows!
