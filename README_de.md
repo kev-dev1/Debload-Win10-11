@@ -29,9 +29,10 @@
  - Microsofts Powertoys
 
 
-***Hinweis: Machen Sie ein Backup Ihrer Daten und einen Wiederherstellungspunkt unter Windows***
-***Ich übernehme keine Verantwortung für Schäden oder Fehler auf dem System***
-***Benutzung auf eigene Gefahr***
+***Hinweis: Machen Sie ein Backup Ihrer Daten und einen Wiederherstellungspunkt unter Windows.***
+
+***Ich übernehme keine Verantwortung für Schäden oder Fehler auf dem System.***
+***!!! Benutzung auf eigene Gefahr !!!***
 
 ## Credits
 Danke an:
