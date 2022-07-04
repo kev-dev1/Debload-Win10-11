@@ -1,4 +1,4 @@
-# Entladen von Windows 10/11
+# Debload von Windows 10/11
  Ein Script für ein sauberes Windows 10/11 ohne Telemetrie oder nutzlose Apps (oder beides), mit Fokus auf Datenschutz!
 
  Dies entfernt einen Haufen Sh*t und macht Windows 10/11 nützlicher und datenschutzfreundlicher, was bei Windows nicht üblich ist.
@@ -16,14 +16,14 @@
  - Microsoft Store
  - Taschenrechner
  - Groove-Musik
- - Film&Tv
+ - Film&TV
  - Bilder
- - Schnipsel-Tool
+ - Snipping-Tool
  - Microsoft Edge (Chromium-basiert)
 
  > Winget installiert ebenfalls:
  - Firefox
- - Mozilla Donnervogel
+ - Mozilla Thunderbird
  - Libreoffice
  - Lektor PDF
  - Microsofts Powertoys
@@ -35,6 +35,6 @@
 
 ## Credits
 Danke an:
-  <a href="https://privacy.sexy/" title="Website">Privacy.sexy</a> <a href="https://github.com/undergroundwires/privacy.sexy">Github</a> für die vordefinierte Liste, zum selber erstellen.
+  <a href="https://privacy.sexy/" title="Website">Privacy.sexy</a> (<a href="https://github.com/undergroundwires/privacy.sexy">Github</a>) für die vordefinierte Liste, zum selber erstellen.
 
 Bleiben Sie gesund und glücklich (persönlich) und mit Ihrem neuen minimalen und datenschutzfreundlichen Windows!
