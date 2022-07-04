@@ -1,8 +1,8 @@
 # Debloading Windows 10/11
 
 Reading:
- <a href="https://github.com/kev-dev1/Debload-Win10-11/blob/master/README_de.md">Deutsch</a>
- <a href="https://github.com/kev-dev1/Debload-Win10-11/blob/master/README_ru.md">Русский</a>
+ (<a href="https://github.com/kev-dev1/Debload-Win10-11/blob/master/README_de.md">Deutsch</a>)
+ (<a href="https://github.com/kev-dev1/Debload-Win10-11/blob/master/README_ru.md">Русский</a>)
 
  A Script for a clean Windows 10/11 without Telemetry or useless Apps (or both), focus on Privacy!
 
@@ -21,7 +21,7 @@ Reading:
  - Microsoft Store
  - Calculator
  - Groove-Music
- - Movie&Tv
+ - Movie&TV
  - Pictures
  - Snipping Tool
  - Microsoft Edge (Chromium based)
@@ -34,12 +34,13 @@ Reading:
  - Microsoft Powertoys
 
 
-***Note: Make a Backup of your Data and a Restore point on Windows***
-***I do not take any responsibility for damages or errors on the system***
-***Use at your own risk***
+***Note: Make a Backup of your Data and a Restore point on Windows.***
+
+***I do not take any responsibility for damages or errors on the system.***
+***!!! Use at your own risk !!!***
 
 ## Credits
 Thanks to:
-  <a href="https://privacy.sexy/" title="Website">Privacy.sexy</a> <a href="https://github.com/undergroundwires/privacy.sexy">Github</a> for the predefined list to create yourself
+  <a href="https://privacy.sexy/" title="Website">Privacy.sexy</a> (<a href="https://github.com/undergroundwires/privacy.sexy">Github</a>) for the predefined list to create yourself
 
 Stay Healty and be Happy (personaly) and with your new Minimal and Privacy-friendly Windows!
